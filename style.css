@@ -6,7 +6,7 @@
 
 .background {
   height: 100vh;
-  background-image: url(/img/doroga_razmetka_vecher_oblaka_gorizont_120298_3840x2160.jpg);
+  background-image: url(img/doroga_razmetka_vecher_oblaka_gorizont_120298_3840x2160.jpg);
   background-size: 100%;
   display: flex;
   justify-content: center;
